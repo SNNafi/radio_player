@@ -1,3 +1,7 @@
+## 0.4.3
+
+* Fix Kotlin compilation errors.
+
 ## 0.4.2
 
 * Add method to ignore ICY metadata.
